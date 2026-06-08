@@ -263,7 +263,7 @@
         "offer-2": {
           "type": "offer",
           "settings": {
-            "title": " shipping for all orders",
+            "title": "for all orders",
             "content": "<p>We got you cover  ! We deliver your goods using UPS expedited shipping, free of charge</p>"
           }
         }
